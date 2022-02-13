@@ -100,17 +100,27 @@ header {
 
 /* Naples or Rome section */
 
-#about-pizza {
-    text-align: center;
-    background: #883d0d;
-    padding: 30px;
-}
-
 #about-pizza p {
-    padding: 50px;
+    padding: 15px;
     text-align: center;
     margin: 0 auto;
     width: 75%;
+}
+
+#naples-rome {
+    float: left;
+    text-align: center;
+    background: #883d0d;
+    padding: 30px;
+    width: 70%;
+    height: 300px;
+}
+
+#rome-naples {
+    float: left;
+    background: #fef0de url(../images/Naples_or_Rome.jpeg) center / 100% 100% no-repeat;
+    width: 30%;
+    height: 300px;
 }
 
 /* footer */
@@ -118,6 +128,7 @@ header {
 footer {
     height: 80px;
     background-color: #140302;
+    clear: both;
 }
 
 .pizza-social {
@@ -138,38 +149,33 @@ footer {
     color: #F17D3A;
 }
 
-/* Media below 480px */
+/* History Section */
 
-@media screen and (max-width: 480px)  {
+/* Media below 880px */
 
-    #logo {
-        font-size: 110%;
-        margin: 0 5px;
+@media screen and (max-width: 880px)  {
+
+    #about-pizza p {
+        padding: 5px;
+        margin: 0 auto;
+        width: 75%;
     }
 
-    #about-pizza {
+    #naples-rome {
+        float: left;
         text-align: center;
         background: #883d0d;
-        padding: 10px;
+        padding: 30px;
+        width: 70%;
+        height: 300px;
+        overflow: scroll;
     }
     
-    #about-pizza p {
-        padding: 10px;
-        text-align: center;
-        margin: 0 auto;
-        width: 90%;
-    }
-
-    #menu {
-        font-size: 80%;
-        letter-spacing: 1px;
-        margin: 0 5px;
-    }
-    
-    #menu li {
-        margin: 5px 5px;
-        display: inline;
-        list-style-type: none;
+    #rome-naples {
+        float: left;
+        background: #fef0de url(../images/Naples_or_Rome.jpeg) center / 100% 100% no-repeat;
+        width: 30%;
+        height: 300px;
     }
 
     #header-text {
@@ -184,3 +190,46 @@ footer {
         position: absolute;
     }
 }
+
+/* Media below 480px */
+
+@media screen and (max-width: 480px)  {
+
+    #logo {
+        font-size: 110%;
+        margin: 0 5px;
+    }
+    
+    #naples-rome {
+        text-align: center;
+        background: #883d0d;
+        padding: 5px;
+        width: 100%;
+        height: auto;
+    }
+    
+    #rome-naples {
+        background: #fef0de url(../images/Naples_or_Rome.jpeg) center / 100% 100% no-repeat;
+        width: 100%;
+        height: 150px;
+    }
+
+    #menu {
+        font-size: 80%;
+        letter-spacing: 1px;
+        margin: 0 5px;
+    }
+
+    #menu, #logo {
+        line-height: 25px;
+    }
+    
+    #menu li {
+        margin: 5px 5px;
+        display: inline;
+        list-style-type: none;
+    }
+}
+
+
+
