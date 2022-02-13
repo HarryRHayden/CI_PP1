@@ -93,9 +93,24 @@ header {
     height: 250px;
     padding: 10px 10px;
     background-color: #883d0d;
-    top: 125px;
+    top: 50px;
     left: 50px;
     position: absolute;
+}
+
+/* Naples or Rome section */
+
+#about-pizza {
+    text-align: center;
+    background: #883d0d;
+    padding: 30px;
+}
+
+#about-pizza p {
+    padding: 50px;
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
 }
 
 /* footer */
@@ -123,17 +138,49 @@ footer {
     color: #F17D3A;
 }
 
-/* Naples or Rome section */
+/* Media below 480px */
 
-#about-pizza {
-    text-align: center;
-    background: #883d0d;
-    padding: 30px;
-}
+@media screen and (max-width: 480px)  {
 
-#about-pizza p {
-    padding: 50px;
-    text-align: center;
-    margin: 0 auto;
-    width: 75%;
+    #logo {
+        font-size: 110%;
+        margin: 0 5px;
+    }
+
+    #about-pizza {
+        text-align: center;
+        background: #883d0d;
+        padding: 10px;
+    }
+    
+    #about-pizza p {
+        padding: 10px;
+        text-align: center;
+        margin: 0 auto;
+        width: 90%;
+    }
+
+    #menu {
+        font-size: 80%;
+        letter-spacing: 1px;
+        margin: 0 5px;
+    }
+    
+    #menu li {
+        margin: 5px 5px;
+        display: inline;
+        list-style-type: none;
+    }
+
+    #header-text {
+        font-size: 90%;
+        font-family: Roboto, sans-serif;
+        letter-spacing: 3px;
+        width: 200px;
+        height: 175px;
+        background-color: #883d0d;
+        top: 0px;
+        left: 0px;
+        position: absolute;
+    }
 }
