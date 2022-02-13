@@ -37,18 +37,12 @@ header {
 #menu {
     font-size: 115%;
     letter-spacing: 3px;
-    display: inline;
     margin: 0 25px;
 }
 
 #menu li {
+    margin: 5px 5px;
     display: inline;
-    margin: 5px 5px;
-    list-style-type: none;
-}
-
-#menu li {
-    margin: 5px 5px;
     list-style-type: none;
 }
 
@@ -94,4 +88,29 @@ header {
     top: 125px;
     left: 50px;
     position: absolute;
+}
+
+/* footer */
+
+footer {
+    height: 80px;
+    background-color: #140302;
+}
+
+.pizza-social {
+    text-align: center;
+    height: 80px;
+    }
+
+.pizza-social > li{
+    display: inline-block;
+    line-height: 80px;
+    padding: 0 20px;
+}
+
+.pizza-social i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #F17D3A;
 }
