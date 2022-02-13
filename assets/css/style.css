@@ -9,7 +9,7 @@
 body {
     font-family: Roboto-condensed, sans-serif;
     font-weight: 300;
-    color: #f17d3a;
+    color: #fef0de;
 }
 
 /* Headings and logo */
@@ -19,6 +19,14 @@ h1, h2 {
     text-transform: capitalize;
     letter-spacing: 3px;
     color: #140302;
+}
+
+h3 {
+    font-family: Roboto, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    color: #fef0de;
+    font-size: 125%;
 }
 
 header {
@@ -113,4 +121,19 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #F17D3A;
+}
+
+/* Naples or Rome section */
+
+#about-pizza {
+    text-align: center;
+    background: #883d0d;
+    padding: 30px;
+}
+
+#about-pizza p {
+    padding: 50px;
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
 }
