@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Roboto-condensed, sans-serif;
+    font-weight: 300;
+    color: #f17d3a;
+}
+
+/* Headings and logo */
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    color: #140302;
+}
+
+header {
+    background-color: #F17D3A;
+}
+
+.logo-right {
+    text-align: right;
+}
+
+#logo {
+    font-size: 200%;
+    margin: 0 25px;
+}
+
+#menu {
+    font-size: 115%;
+    letter-spacing: 3px;
+    display: inline;
+    margin: 0 25px;
+}
+
+#menu li {
+    display: inline;
+    margin: 5px 5px;
+    list-style-type: none;
+}
+
+#menu li {
+    margin: 5px 5px;
+    list-style-type: none;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #140302;
+}
+
+#menu, #logo {
+    line-height: 50px;
+}
+
+.pizza-perfect a:hover {
+    color: #140302;
+    border-bottom: 1px solid #140302;
+}
+
+/* Main Image */
+
+#pizza-main {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 600px;
+}
+
+#pizza-oven {
+    background: #F17D3A url(../images/3_pizzas_1920x1080.jpeg) center / 100% 100% no-repeat;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    position: inherit;
+}
+
+#header-text {
+    font-size: 115%;
+    font-family: Roboto, sans-serif;
+    letter-spacing: 3px;
+    width: 250px;
+    height: 250px;
+    padding: 10px 10px;
+    background-color: #883d0d;
+    top: 125px;
+    left: 50px;
+    position: absolute;
+}
