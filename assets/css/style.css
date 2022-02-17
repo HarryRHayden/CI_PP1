@@ -123,6 +123,31 @@ header {
     height: 300px;
 }
 
+/* History page */
+
+#naples-pizza p {
+    padding: 15px;
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
+}
+
+#naples-pizza {
+    float: right;
+    text-align: center;
+    background: #883d0d;
+    padding: 60px;
+    width: 70%;
+    height: 400px;
+}
+
+#neapolitan {
+    float: left;
+    background: #fef0de url(../images/pizza_on_board.jpg) center / 100% 100% no-repeat;
+    width: 30%;
+    height: 400px;
+}
+
 /* footer */
 
 footer {
