@@ -171,6 +171,35 @@ header {
     height: 400px;
 }
 
+/* Form */
+
+.pizza_form {
+    background: #883d0d url(../images/feed_pizza.jpeg) center / 100% 100% no-repeat;
+    height: 900px;
+}
+
+.form_style {
+    color: #fef0de;
+    background-color: rgba(136, 61, 13, 0.8);
+    max-width: 60%;
+    left: 10%;
+    padding: 50px;
+}
+
+.form_style h2 {
+    margin-bottom: 25px;
+}
+
+.input {
+    background: transparent;
+    color: #fef0de;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 2px solid #140302;
+    border-radius: 2px;
+}
+
 /* footer */
 
 footer {
