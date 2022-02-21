@@ -36,6 +36,22 @@
         </nav>
      </header>
 
+     <!-- Form -->
+     <form action="#" onsubmit="alert('Thank you for your feedback. (Data not submitted, this is for educational purposes only.)');">
+        <label for="fname">First Name</label>
+        <input id="fname" class="input" type="text" name="first_name" required>
+        <label for="lname">Last Name</label>
+        <input id="lname" class="input" type="text" name="last_name" required>
+        <label for="email">Email Address</label>
+        <input id="email" class="input" type="email" name="email" required>
+        <select name="prefer" id="prefer" class="input" required>
+            <option value="" selected>Which do you prefer?</option>
+            <option value="prefer">Romana</option>
+            <option value="prefer">Neopolitan</option>
+        </select>
+        <input type="submit" value="submit" class="form_button">
+    </form>
+
      <!-- Footer -->
     <footer>
         <ul class="pizza-social">
