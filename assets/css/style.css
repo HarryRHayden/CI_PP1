@@ -200,6 +200,25 @@ header {
     border-radius: 2px;
 }
 
+.form_button {
+    width: 25%;
+    border: none;
+    color: #140302;
+    background-color: #F17D3A;
+    padding: 16px 32px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.form_button:hover {
+    background-color: #140302;
+    color: #fef0de;
+}
+
 /* footer */
 
 footer {
