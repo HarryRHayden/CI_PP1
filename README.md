@@ -4,6 +4,13 @@ A Pizza Perfection is a website which gives the user information on the history 
 
 There will be a section for users to provide feedback and topping inspirational ideas.
 
+## User Stories
+
+- Provide information on Romana and Neopolitan Pizza
+- Provide user differences between the two pizzas
+- Provide images to inspire the user
+- Provide a method of voting for a favourite type of pizza
+
 ## Initial Framework
 
 Before starting the website I used a framework design tool called [Balsamic](https://balsamiq.com/) to mockup an initial design idea.
@@ -31,7 +38,10 @@ Before starting the website I used a framework design tool called [Balsamic](htt
   - The footer section includes links to the relevant social media sites for A Pizza Perfection. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
+- __History__
 
+  - The history page is valuable to the user as it explains the main difference between the two different types of pizza. 
+  - Gives the main criteria for a pizza to be recognised as a Romana or Neopolitan.
 
 - __Gallery__
 
@@ -41,7 +51,7 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
 ### Features Left to Implement
 
-- Another feature idea
+- File upload so users can post their own pizza creations
 
 ## Testing 
 
