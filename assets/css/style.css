@@ -280,6 +280,22 @@ footer {
         left: 0px;
         position: absolute;
     }
+
+    .pizza_form {
+        height: 600px;
+    }
+
+    .form_style {
+        color: #fef0de;
+        background-color: rgba(136, 61, 13, 0.8);
+        max-width: 90%;
+        left: 10%;
+        padding: 50px;
+    }
+
+    .form_button {
+        width: auto;
+    }
 }
 
 /* Media below 480px */
