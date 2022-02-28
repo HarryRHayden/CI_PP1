@@ -26,8 +26,6 @@ Before starting the website I used a framework design tool called [Balsamic](htt
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, History, Gallery and Contact Us page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-
-
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
@@ -52,6 +50,7 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 ### Features Left to Implement
 
 - File upload so users can post their own pizza creations
+- Add code to allow for a drop down navigation menu when on smaller screens
 
 ## Testing 
 
@@ -75,12 +74,14 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - 
+The live link can be found here - https://harryrhayden.github.io/CI_PP1/
 
 
 ## Credits 
 
+### Code
 
+- The gallery style code was taken from the Love Running project
 
 ### Content 
 
