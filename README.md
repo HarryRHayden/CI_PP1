@@ -60,7 +60,42 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+* ## Manual Testing
+    * I onducted a manual check list for myself to carry out to make sure that everything is working as intended.
+
+
+   * ### Manual Tests Conducted
+      * Navigation Menu
+        * Verify that clicking on logo navigates to the home page.
+        * Verify that when clicked, all navigation links correctly navigate to their respective pages.
+        * Verify that all navigation links have the :hover psuedo selector.
+        * Verify that the navigation bar is fully responsive.
+      * Home/Landing Section
+        * Verify that the hero image fits and does not pixelate.
+        * Verify that the cover text is displayed correctly.
+        * Verify that the paragraph and image are displayed correctly.
+        * Verify that the Home/Landing section is fully responsive.
+      * History Page
+        * Verify that the text is clearly presented with the correct font-style and font-size.
+        * Verify that the text does not have any spelling mistakes.
+        * Verify that the images are not distorted.
+        * Verify that the History is fully responsive.
+      * Gallery Page
+        * Verify that the gallery images all load.
+        * Verify that the gallery images drops to a column count of 2 at less than 480px.
+        * Verify that the Gallery is fully responsive.
+      * Contact Us Section
+        * Verify that all elements that are set to required are working.
+        * Verify that valid email address is needed with relevant '@' included.
+        * Verify that the text is clearly presented with the correct font-style and font-size.
+        * Verify that the text does not have any spelling mistakes.
+        * Verify that 'Submit' button informs the user that the submission was successful.
+        * Verify that the drop down list shows correct selectors.
+        * Verify that the Contact section is fully responsive.
+      * Footer Section
+        * Verify that the social media links open in a new tab.
+        * Verify that the Footer section is fully responsive
+        <br /><br />
 
 
 ### Validator Testing 
@@ -92,8 +127,10 @@ The live link can be found here - https://harryrhayden.github.io/CI_PP1/
 ### Content 
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- 
 
 ### Media
 
 - The photos used on the site are from [Pexels](https://www.pexels.com/)
 - The colours used on the site are found on [Coolors](https://coolors.co/)
+- The favicon came from [Favicon](https://favicon.io/)
