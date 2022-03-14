@@ -111,8 +111,12 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 ### No Opener
   * Spelt the rel - noopener incorrectly so was flagged on validation and corrected
 
+  ![No Opener](docs/images/noopener.png)
+
 ### Degrees Symbol
   * For both degrees fahrenhiet and degrees celsius the symbol was copied in. When validation this showed as an error. Repleced with HTML code which fixed the issue.
+
+  ![Degrees](docs/images/degrees.png)
 
 ## Deployment
 
