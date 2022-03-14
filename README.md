@@ -97,6 +97,9 @@ Before starting the website I used a framework design tool called [Balsamic](htt
         * Verify that the Footer section is fully responsive
         <br /><br />
 
+### Lighthouse Score
+
+![Lighthouse Score](docs/images/lighthouse.png)
 
 ### Validator Testing 
 
