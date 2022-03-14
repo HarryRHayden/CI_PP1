@@ -78,11 +78,12 @@ header {
 }
 
 #pizza-oven {
-    background: #F17D3A url(../images/3_pizzas_1920x1080.jpeg) center / 100% 100% no-repeat;
+    background: #F17D3A url(../images/3_pizzas_1920x1080.jpeg);
     width: 100%;
     height: 100%;
     margin: auto;
     position: inherit;
+    background-size: cover;
 }
 
 #header-text {
@@ -100,16 +101,20 @@ header {
 
 /* Naples or Rome section */
 
+#about-head {
+    text-align: center;
+}
+
 #about-pizza p {
     padding: 15px;
-    text-align: center;
+    text-align: justify;
     margin: 0 auto;
     width: 75%;
 }
 
 #naples-rome {
     float: left;
-    text-align: center;
+    text-align: justify;
     background: #883d0d;
     padding: 30px;
     width: 70%;
@@ -118,64 +123,76 @@ header {
 
 #rome-naples {
     float: left;
-    background: #fef0de url(../images/Naples_or_Rome.jpeg) center / 100% 100% no-repeat;
+    background: #fef0de url(../images/Naples_or_Rome.jpeg);
     width: 30%;
     height: 300px;
+    background-size: cover;
 }
 
 /* History page */
 
-#naples-pizza p {
-    padding: 15px;
-    text-align: center;
-    margin: 0 auto;
-    width: 75%;
-}
-
 #naples-pizza {
     float: right;
-    text-align: center;
+    text-align: justify;
     background: #883d0d;
     padding: 60px;
     width: 70%;
     height: 400px;
 }
 
+#naples-pizza h3 {
+    text-align: center;
+}
+
+#naples-pizza p {
+    padding: 15px;
+    text-align: justify;
+    margin: 0 auto;
+    width: 75%;
+}
+
 #neapolitan {
     float: left;
-    background: #fef0de url(../images/pizza_on_board.jpg) center / 100% 100% no-repeat;
+    background: #fef0de url(../images/pizza_on_board.jpg);
     width: 30%;
     height: 400px;
+    background-size: cover;
 }
 
 #rome-pizza p {
     padding: 15px;
-    text-align: center;
+    text-align: justify;
     margin: 0 auto;
     width: 75%;
 }
 
 #rome-pizza {
     float: left;
-    text-align: center;
+    text-align: justify;
     background: #883d0d;
     padding: 60px;
     width: 70%;
     height: 400px;
 }
 
+#rome-pizza h3 {
+    text-align: center;
+}
+
 #romana {
     float: right;
-    background: #fef0de url(../images/Roman_pizza.jpeg) center / 100% 100% no-repeat;
+    background: #fef0de url(../images/Roman_pizza.jpeg);
     width: 30%;
     height: 400px;
+    background-size: cover;
 }
 
 /* Form */
 
 .pizza_form {
-    background: #883d0d url(../images/feed_pizza.jpeg) center / 100% 100% no-repeat;
+    background: #883d0d url(../images/feed_pizza.jpeg);
     height: 900px;
+    background-size: cover;
 }
 
 .form_style {
@@ -337,21 +354,24 @@ footer {
     }
     
     #rome-naples {
-        background: #fef0de url(../images/Naples_or_Rome.jpeg) center / 100% 100% no-repeat;
+        background: #fef0de url(../images/Naples_or_Rome.jpeg);
         width: 100%;
-        height: 150px;
+        height: 300px;
+        background-size: cover;
     }
 
     #neapolitan {
-        background: #fef0de url(../images/pizza_on_board.jpg) center / 100% 100% no-repeat;
+        background: #fef0de url(../images/pizza_on_board.jpg);
         width: 100%;
-        height: 150px;
+        height: 300px;
+        background-size: cover;
     }
 
     #romana {
-        background: #fef0de url(../images/Roman_pizza.jpeg) center / 100% 100% no-repeat;
+        background: #fef0de url(../images/Roman_pizza.jpeg);
         width: 100%;
-        height: 150px;
+        height: 300px;
+        background-size: cover;
     }
 
     #menu {
