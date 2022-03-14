@@ -61,7 +61,7 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 ## Testing 
 
 * ## Manual Testing
-    * I onducted a manual check list for myself to carry out to make sure that everything is working as intended.
+    * I conducted a manual check list for myself to carry out to make sure that everything is working as intended.
 
 
    * ### Manual Tests Conducted
@@ -105,6 +105,14 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 - CSS
   -
   
+
+## Bugs Fixed
+
+### No Opener
+  * Spelt the rel - noopener incorrectly so was flagged on validation and corrected
+
+### Degrees Symbol
+  * For both degrees fahrenhiet and degrees celsius the symbol was copied in. When validation this showed as an error. Repleced with HTML code which fixed the issue.
 
 ## Deployment
 
