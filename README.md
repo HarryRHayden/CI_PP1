@@ -100,10 +100,19 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
 ### Validator Testing 
 
+Validation completed by [Free Formatter](https://www.freeformatter.com/html-validator.html)
 - HTML
-  - 
+  - Index
+  ![Index](docs/images/index.png)
+  - History
+  ![History](docs/images/history.png)
+  - Gallery
+  ![Gallery](docs/images/gallery.png)
+  - Contact Us
+  ![Contact Us](docs/images/contact.png)
 - CSS
-  -
+  - Stylesheet
+  ![Stylesheet](docs/images/css.png)
   
 
 ## Bugs Fixed
