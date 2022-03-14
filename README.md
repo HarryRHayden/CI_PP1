@@ -26,15 +26,21 @@ Before starting the website I used a framework design tool called [Balsamic](htt
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, History, Gallery and Contact Us page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
+  ![Navigation Bar](docs/images/Nav_bar.png)
+
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to A Pizza Perfection
 
+  ![Landing Image](docs/images/landing_image.png)
+
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for A Pizza Perfection. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
+
+  ![Footer](docs/images/footer.png)
 
 - __History__
 
