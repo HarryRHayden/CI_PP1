@@ -4,6 +4,8 @@ A Pizza Perfection is a website which gives the user information on the history 
 
 There will be a section for users to provide feedback and topping inspirational ideas.
 
+
+
 ## User Stories
 
 - Provide information on Romana and Neopolitan Pizza
@@ -15,7 +17,7 @@ There will be a section for users to provide feedback and topping inspirational 
 
 Before starting the website I used a framework design tool called [Balsamic](https://balsamiq.com/) to mockup an initial design idea.
 
-![Mock up](docs/images/Responsive_mock.png)
+![Mock up](docs/images/responsive_mock.png)
 
 ## Features 
 
@@ -26,7 +28,7 @@ Before starting the website I used a framework design tool called [Balsamic](htt
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, History, Gallery and Contact Us page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-  ![Navigation Bar](docs/images/Nav_bar.png)
+  ![Navigation Bar](docs/images/nav_bar.png)
 
 - __The landing page image__
 
