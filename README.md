@@ -62,11 +62,14 @@ Before starting the website I used a framework design tool called [Balsamic](htt
   - The history page is valuable to the user as it explains the main difference between the two different types of pizza. 
   - Gives the main criteria for a pizza to be recognised as a Romana or Neopolitan.
 
+  ![History](docs/images/history_page.png)
+
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see what different types of pizza users have made. 
   - This section is valuable to the user as it will inspire them to use new toppings and try new flavours.
 
+  ![History](docs/images/gallery_page.png)
 
 ### Features Left to Implement
 
@@ -77,7 +80,6 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
 * ## Manual Testing
     * I conducted a manual check list for myself to carry out to make sure that everything is working as intended.
-
 
    * ### Manual Tests Conducted
       * Navigation Menu
@@ -114,24 +116,21 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
 ### Lighthouse Score
 
-<details><summary>Lighthouse Testing</summary>
-<img src="docs/images/lighthouse.png">
-</details>
+<details><summary>Lighthouse Testing</summary><img src="docs/images/lighthouse.png"></details>
 
-### Validator Testing 
+## Validator Testing 
 
 Validation completed by [Free Formatter](https://www.freeformatter.com/html-validator.html)
-- HTML
-  - Index
+
+### HTML
+
   <details><summary>Index Page</summary><img src="docs/images/index.png"></details>
-  - History
   <details><summary>History Page</summary><img src="docs/images/history.png"></details>
-  - Gallery
   <details><summary>Gallery Page</summary><img src="docs/images/gallery.png"></details>
-  - Contact Us
   <details><summary>Contact Us Page</summary><img src="docs/images/contact.png"></details>
-- CSS
-  - Stylesheet
+
+### CSS
+
   <details><summary>CSS</summary><img src="docs/images/css.png"></details>
   
 
