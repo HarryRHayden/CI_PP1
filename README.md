@@ -71,6 +71,13 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
   ![History](docs/images/gallery_page.png)
 
+- __Contact Us__
+
+  - The history page is valuable to the user as it explains the main difference between the two different types of pizza. 
+  - Gives the main criteria for a pizza to be recognised as a Romana or Neopolitan.
+
+  ![History](docs/images/contact_page.png)
+
 ### Features Left to Implement
 
 - File upload so users can post their own pizza creations
