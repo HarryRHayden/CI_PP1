@@ -32,6 +32,14 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 <img src="docs/images/responsive_mock.png">
 </details>
 
+## Style Choices
+
+### Colour Scheme
+
+For the colour of the Home page I used [Coolors](https://coolors.co/) which allowed me to utilise the colour of the cheese/dough for a pallette. For the colour scheme of the History page I utilised the hex colours of the Italian flag.
+
+<details><summary>Initial Framework</summary><img src="docs/images/pallette.png"></details>
+
 ## Features 
 
 ### Existing Features
@@ -174,7 +182,6 @@ The live link can be found here - https://harryrhayden.github.io/CI_PP1/
 ### Content 
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- 
 
 ### Media
 
