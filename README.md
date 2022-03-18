@@ -114,20 +114,22 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
 ### Lighthouse Score
 
-![Lighthouse Score](docs/images/lighthouse.png)
+<details><summary>Lighthouse Testing</summary>
+<img src="docs/images/lighthouse.png">
+</details>
 
 ### Validator Testing 
 
 Validation completed by [Free Formatter](https://www.freeformatter.com/html-validator.html)
 - HTML
   - Index
-  ![Index](docs/images/index.png)
+  <details><summary>Index Page</summary><img src="docs/images/index.png"></details>
   - History
-  ![History](docs/images/history.png)
+  <details><summary>History Page</summary><img src="docs/images/history.png"></details>
   - Gallery
-  ![Gallery](docs/images/gallery.png)
+  <details><summary>Gallery Page</summary><img src="docs/images/gallery.png"></details>
   - Contact Us
-  ![Contact Us](docs/images/contact.png)
+  <details><summary>Contact Us Page</summary><img src="docs/images/contact.png"></details>
 - CSS
   - Stylesheet
   ![Stylesheet](docs/images/css.png)
