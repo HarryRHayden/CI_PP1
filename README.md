@@ -81,36 +81,36 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
    * ### Manual Tests Conducted
       * Navigation Menu
-        * Verify that clicking on logo navigates to the home page.
-        * Verify that when clicked, all navigation links correctly navigate to their respective pages.
-        * Verify that all navigation links have the :hover psuedo selector.
-        * Verify that the navigation bar is fully responsive.
+        * Verify that when the header is clicked it returns to the home page
+        * Verify that all navigation links correctly navigate to their respective pages when clicked
+        * Verify that all the :hover psuedo selectors work when using the navigation bar
+        * Verify the responsiveness of the navigation bar
       * Home/Landing Section
-        * Verify that the hero image fits and does not pixelate.
-        * Verify that the cover text is displayed correctly.
-        * Verify that the paragraph and image are displayed correctly.
-        * Verify that the Home/Landing section is fully responsive.
+        * Verify the hero image is not distorted
+        * Verify that the cover text is displayed correctly
+        * Verify that the paragraph and image are displayed correctly
+        * Verify the responsiveness of the page
+        * Verify that the font-style and size are visible and of good contrast
       * History Page
-        * Verify that the text is clearly presented with the correct font-style and font-size.
-        * Verify that the text does not have any spelling mistakes.
-        * Verify that the images are not distorted.
-        * Verify that the History is fully responsive.
+        * Verify that the font-style and size are visible and of good contrast
+        * Verify that there are no spelling mistakes
+        * Verify that the images are not distorted
+        * Verify the responsiveness of the page
       * Gallery Page
-        * Verify that the gallery images all load.
-        * Verify that the gallery images drops to a column count of 2 at less than 480px.
-        * Verify that the Gallery is fully responsive.
+        * Verify that the gallery images all load
+        * Verify that the gallery images drops to a column count of 2 at less than 480px
+        * Verify the responsiveness of the page
       * Contact Us Section
-        * Verify that all elements that are set to required are working.
-        * Verify that valid email address is needed with relevant '@' included.
-        * Verify that the text is clearly presented with the correct font-style and font-size.
-        * Verify that the text does not have any spelling mistakes.
-        * Verify that 'Submit' button informs the user that the submission was successful.
-        * Verify that the drop down list shows correct selectors.
-        * Verify that the Contact section is fully responsive.
+        * Verify that all required elements work
+        * Verify that the '@' symbol is required in the email address section
+        * Verify that the font-style and size are visible and of good contrast
+        * Verify that there are no spelling mistakes
+        * Verify that 'Submit' button provides an informational pop-up
+        * Verify that the drop down list shows correct selectors
+        * Verify the responsiveness of the page
       * Footer Section
-        * Verify that the social media links open in a new tab.
-        * Verify that the Footer section is fully responsive
-        <br /><br />
+        * Verify that when you select a social media link it opens in a new tab
+        * Verify the responsiveness of the Footer
 
 ### Lighthouse Score
 
@@ -132,7 +132,7 @@ Validation completed by [Free Formatter](https://www.freeformatter.com/html-vali
   <details><summary>Contact Us Page</summary><img src="docs/images/contact.png"></details>
 - CSS
   - Stylesheet
-  ![Stylesheet](docs/images/css.png)
+  <details><summary>CSS</summary><img src="docs/images/css.png"></details>
   
 
 ## Bugs Fixed
@@ -140,21 +140,21 @@ Validation completed by [Free Formatter](https://www.freeformatter.com/html-vali
 ### No Opener
   * Spelt the rel - noopener incorrectly so was flagged on validation and corrected
 
-  ![No Opener](docs/images/noopener.png)
+  <details><summary>No opener</summary><img src="docs/images/noopener.png"></details>
 
 ### Degrees Symbol
   * For both degrees fahrenhiet and degrees celsius the symbol was copied in. When validation this showed as an error. Repleced with HTML code which fixed the issue.
 
-  ![Degrees](docs/images/degrees.png)
+  <details><summary>Degrees</summary><img src="docs/images/degrees.png"></details>
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+To deploy the site to a hosting platform (such as Github) you are required to follow the steps shown below. 
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- The site was deployed on GitHub pages. The flow to deploy is shown below: 
+  - In the repository on Github, enter  the Settings tab 
+  - Select the Master Branch from the source section drop-down menu 
+  - After you select master branch, the page will be refreshed with a detailed ribbon display to show the user the successful deployment of their page. 
 
 The live link can be found here - https://harryrhayden.github.io/CI_PP1/
 
