@@ -134,10 +134,11 @@ header {
 #naples-pizza {
     float: right;
     text-align: justify;
-    background: #883d0d;
+    background: #008C45;
     padding: 60px;
     width: 70%;
     height: 400px;
+    color: #F4F5F0;
 }
 
 #naples-pizza h3 {
@@ -169,10 +170,11 @@ header {
 #rome-pizza {
     float: left;
     text-align: justify;
-    background: #883d0d;
+    background: #CD212A;
     padding: 60px;
     width: 70%;
     height: 400px;
+    color: #F4F5F0;
 }
 
 #rome-pizza h3 {
