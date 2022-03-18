@@ -86,7 +86,7 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
   - The gallery will provide the user with supporting images to see what different types of pizza users have made. 
   - This section is valuable to the user as it will inspire them to use new toppings and try new flavours.
-  - 
+  - User stories covered : 4, 7
 
   ![Gallery](docs/images/gallery_page.png)
 
@@ -94,6 +94,7 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
   - The history page is valuable to the user as it explains the main difference between the two different types of pizza. 
   - Gives the main criteria for a pizza to be recognised as a Romana or Neopolitan.
+  - User stories covered : 5, 6
 
   ![Contact Us](docs/images/contact_page.png)
 
