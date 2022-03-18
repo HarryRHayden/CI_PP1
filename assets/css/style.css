@@ -352,6 +352,14 @@ footer {
     #photos {
         column-count: 3;
     }
+
+    #neapolitan {
+        background: #fef0de url(../images/pizza_on_board.jpg) center / 100% 100% no-repeat;
+    }
+
+    #romana {
+        background: #fef0de url(../images/roman_pizza.jpeg) center / 100% 100% no-repeat;
+    }
 }
 
 /* Media below 480px */
