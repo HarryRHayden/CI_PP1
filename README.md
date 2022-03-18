@@ -36,12 +36,16 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
 ### Colour Scheme
 
-For the colour of the Home page I used [Coolors](https://coolors.co/) which allowed me to utilise the colour of the cheese/dough for a pallette. For the colour scheme of the History page I utilised the hex colours of the Italian flag.
+For the colour of the Home page I used [Coolors](https://coolors.co/) which allowed me to utilise the colour of the cheese/dough for a palette.
 
-<details><summary>Initial Framework</summary><img src="docs/images/pallette.png"></details>
+<details><summary>Colour Palette</summary><img src="docs/images/palette.png"></details>
+<br>
+For the colour scheme of the History page I utilised the hex colours of the Italian flag via [Scheme Colour](https://www.schemecolor.com/italy-flag-colors.php).
 
-## Features 
+<details><summary>Colour Palette</summary><img src="docs/images/italian_flag_hex.png"></details>
+<br>
 
+## Features
 ### Existing Features
 
 - __Navigation Bar__
@@ -186,5 +190,5 @@ The live link can be found here - https://harryrhayden.github.io/CI_PP1/
 ### Media
 
 - The photos used on the site are from [Pexels](https://www.pexels.com/)
-- The colours used on the site are found on [Coolors](https://coolors.co/)
+- The colours used on the site are found on [Coolors](https://coolors.co/) and [Scheme Colour](https://www.schemecolor.com/italy-flag-colors.php)
 - The favicon came from [Favicon](https://favicon.io/)
