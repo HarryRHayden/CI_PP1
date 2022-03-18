@@ -299,7 +299,15 @@ footer {
         height: 550px;
     }
 
-    #naples-rome, #rome-pizza, #naples-pizza {
+    #naples-rome {
+        text-align: center;
+        padding: 30px;
+        width: 70%;
+        height: 400px;
+        overflow: scroll;
+    }
+
+    #rome-pizza, #naples-pizza {
         text-align: center;
         padding: 30px;
         width: 70%;
@@ -355,9 +363,16 @@ footer {
         margin: 0 5px;
     }
     
-    #naples-rome, #naples-pizza, #rome-pizza {
+    #naples-rome  {
         text-align: center;
         background: #883d0d;
+        padding: 5px;
+        width: 100%;
+        height: auto;
+    }
+
+    #naples-pizza, #rome-pizza {
+        text-align: center;
         padding: 5px;
         width: 100%;
         height: auto;
