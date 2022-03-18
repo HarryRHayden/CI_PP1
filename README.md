@@ -4,7 +4,9 @@ A Pizza Perfection is a website which gives the user information on the history 
 
 There will be a section for users to provide feedback and topping inspirational ideas.
 
+![Webpage responsive](docs/images/responsive_design.png)
 
+[Live Webpage](https://harryrhayden.github.io/CI_PP1/index.html)
 
 ## User Stories
 
@@ -13,11 +15,22 @@ There will be a section for users to provide feedback and topping inspirational 
 - Provide images to inspire the user
 - Provide a method of voting for a favourite type of pizza
 
+## User Goals
+
+1. Provide information on pizza
+2. Provide information on the two main types of pizza
+3. Provide the user the main differences of the two main types
+4. Provide a gallery of images
+5. Provide a contact form
+6. Conduct a survey on peoples favourite type of pizza
+
 ## Initial Framework
 
 Before starting the website I used a framework design tool called [Balsamic](https://balsamiq.com/) to mockup an initial design idea.
 
-![Mock up](docs/images/responsive_mock.png)
+<details><summary>Initial Framework</summary>
+<img src="docs/images/responsive_mock.png">
+</details>
 
 ## Features 
 
