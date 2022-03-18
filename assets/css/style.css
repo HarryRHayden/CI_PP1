@@ -99,6 +99,10 @@ header {
     position: absolute;
 }
 
+#header-text h2 {
+    color: #F4F5F0;
+}
+
 /* Naples or Rome section */
 
 #about-head {
@@ -143,6 +147,7 @@ header {
 
 #naples-pizza h3 {
     text-align: center;
+    color: #F4F5F0;
 }
 
 #naples-pizza p {
@@ -150,6 +155,7 @@ header {
     text-align: justify;
     margin: 0 auto;
     width: 75%;
+    color: #F4F5F0;
 }
 
 #neapolitan {
@@ -165,6 +171,7 @@ header {
     text-align: justify;
     margin: 0 auto;
     width: 75%;
+    color: #F4F5F0;
 }
 
 #rome-pizza {
@@ -179,6 +186,7 @@ header {
 
 #rome-pizza h3 {
     text-align: center;
+    color: #F4F5F0;
 }
 
 #romana {
