@@ -23,6 +23,8 @@ There will be a section for users to provide feedback and topping inspirational 
 4. Provide a gallery of images
 5. Provide a contact form
 6. Conduct a survey on peoples favourite type of pizza
+7. Provide a way to navigate around the site
+8. Provide links to social networking
 
 ## Initial Framework
 
@@ -52,6 +54,7 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, History, Gallery and Contact Us page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - User stories covered : 1
 
   ![Navigation Bar](docs/images/nav_bar.png)
 
@@ -59,6 +62,7 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to A Pizza Perfection
+  - User stories covered : 1, 2
 
   ![Landing Image](docs/images/landing_image.png)
 
@@ -66,6 +70,7 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
   - The footer section includes links to the relevant social media sites for A Pizza Perfection. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
+  - User stories covered : 8
 
   ![Footer](docs/images/footer.png)
 
@@ -73,6 +78,7 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
   - The history page is valuable to the user as it explains the main difference between the two different types of pizza. 
   - Gives the main criteria for a pizza to be recognised as a Romana or Neopolitan.
+  - User stories covered : 1, 2, 3, 7
 
   ![History](docs/images/history_page.png)
 
@@ -80,15 +86,16 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
   - The gallery will provide the user with supporting images to see what different types of pizza users have made. 
   - This section is valuable to the user as it will inspire them to use new toppings and try new flavours.
+  - 
 
-  ![History](docs/images/gallery_page.png)
+  ![Gallery](docs/images/gallery_page.png)
 
 - __Contact Us__
 
   - The history page is valuable to the user as it explains the main difference between the two different types of pizza. 
   - Gives the main criteria for a pizza to be recognised as a Romana or Neopolitan.
 
-  ![History](docs/images/contact_page.png)
+  ![Contact Us](docs/images/contact_page.png)
 
 ### Features Left to Implement
 
