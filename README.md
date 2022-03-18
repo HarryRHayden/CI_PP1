@@ -98,7 +98,7 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 ## Testing 
 
 * ## Manual Testing
-    * I conducted a manual check list for myself to carry out to make sure that everything is working as intended.
+    * I planned and carried out the below manual tests for the pages.
 
    * ### Manual Tests Conducted
       * Navigation Menu
