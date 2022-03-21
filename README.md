@@ -98,6 +98,12 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
   ![Contact Us](docs/images/contact_page.png)
 
+- __404 Error Page__
+
+  - This gives a custom 404 error page so the user can return to the page they were looking for
+
+  ![Contact Us](docs/images/error_404.png)
+
 ### Features Left to Implement
 
 - File upload so users can post their own pizza creations
