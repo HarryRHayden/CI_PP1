@@ -286,6 +286,12 @@ footer {
     color: #F17D3A;
 }
 
+/* Error image */
+
+#error-image {
+    background: #F17D3A url(../images/pizza_error.jpg);
+}
+
 /* Media below 880px */
 
 @media screen and (max-width: 880px)  {
