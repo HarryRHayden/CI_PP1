@@ -146,7 +146,7 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 <details><summary>Lighthouse Index</summary><img src="docs/images/lighthouse_index.png"></details>
 <details><summary>Lighthouse History</summary><img src="docs/images/lighthouse_history.png"></details>
 <details><summary>Lighthouse Gallery</summary><img src="docs/images/lighthouse_gallery.png"></details>
-<details><summary>Lighthouse Contact</summary><img src="docs/images/lighthouse_index.png"></details>
+<details><summary>Lighthouse Contact</summary><img src="docs/images/lighthouse_contact.png"></details>
 
 ## Validator Testing 
 
@@ -172,7 +172,7 @@ Validation completed by [Free Formatter](https://www.freeformatter.com/html-vali
   <details><summary>No opener</summary><img src="docs/images/noopener.png"></details>
 
 ### Degrees Symbol
-  * For both degrees fahrenhiet and degrees celsius the symbol was copied in. When validation this showed as an error. Repleced with HTML code which fixed the issue.
+  * For both degrees fahrenhiet and degrees celsius the symbol was copied in. When validation this showed as an error. Replaced with HTML code which fixed the issue.
 
   <details><summary>Degrees</summary><img src="docs/images/degrees.png"></details>
 
