@@ -290,6 +290,8 @@ footer {
 
 #error-image {
     background: #F17D3A url(../images/pizza_error.jpg);
+    height: 800px;
+    width: 100%;
 }
 
 /* Media below 880px */
