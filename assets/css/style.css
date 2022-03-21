@@ -142,12 +142,12 @@ header {
     padding: 60px;
     width: 70%;
     height: 400px;
-    color: #CD212A;
+    color: black;
 }
 
 #naples-pizza h3 {
     text-align: center;
-    color: #F4F5F0;
+    color: black;
 }
 
 #naples-pizza p {
@@ -155,7 +155,6 @@ header {
     text-align: justify;
     margin: 0 auto;
     width: 75%;
-    color: #F4F5F0;
     font-size: 110%;
 }
 
