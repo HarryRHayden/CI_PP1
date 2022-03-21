@@ -110,36 +110,36 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
    * ### Manual Tests Conducted
       * Navigation Menu
-        * Verify that when the header is clicked it returns to the home page
-        * Verify that all navigation links correctly navigate to their respective pages when clicked
-        * Verify that all the :hover psuedo selectors work when using the navigation bar
-        * Verify the responsiveness of the navigation bar
+        * Ensure that when the header is clicked it returns to the home page
+        * Ensure that all navigation links correctly navigate to their respective pages when clicked
+        * Ensure that all the :hover psuedo selectors work when using the navigation bar
+        * Ensure the responsiveness of the navigation bar
       * Home/Landing Section
-        * Verify the hero image is not distorted
-        * Verify that the cover text is displayed correctly
-        * Verify that the paragraph and image are displayed correctly
-        * Verify the responsiveness of the page
-        * Verify that the font-style and size are visible and of good contrast
+        * Ensure the hero image is not distorted
+        * Ensure that the cover text is displayed correctly
+        * Ensure that the paragraph and image are displayed correctly
+        * Ensure the responsiveness of the page
+        * Ensure that the font-style and size are visible and of good contrast
       * History Page
-        * Verify that the font-style and size are visible and of good contrast
-        * Verify that there are no spelling mistakes
-        * Verify that the images are not distorted
-        * Verify the responsiveness of the page
+        * Ensure that the font-style and size are visible and of good contrast
+        * Ensure that there are no spelling mistakes
+        * Ensure that the images are not distorted
+        * Ensure the responsiveness of the page
       * Gallery Page
-        * Verify that the gallery images all load
-        * Verify that the gallery images drops to a column count of 2 at less than 480px
-        * Verify the responsiveness of the page
+        * Ensure that the gallery images all load
+        * Ensure that the gallery images drops to a column count of 2 at less than 480px
+        * Ensure the responsiveness of the page
       * Contact Us Section
-        * Verify that all required elements work
-        * Verify that the '@' symbol is required in the email address section
-        * Verify that the font-style and size are visible and of good contrast
-        * Verify that there are no spelling mistakes
-        * Verify that 'Submit' button provides an informational pop-up
-        * Verify that the drop down list shows correct selectors
-        * Verify the responsiveness of the page
+        * Ensure that all required elements work
+        * Ensure that the '@' symbol is required in the email address section
+        * Ensure that the font-style and size are visible and of good contrast
+        * Ensure that there are no spelling mistakes
+        * Ensure that 'Submit' button provides an informational pop-up
+        * Ensure that the drop down list shows correct selectors
+        * Ensure the responsiveness of the page
       * Footer Section
-        * Verify that when you select a social media link it opens in a new tab
-        * Verify the responsiveness of the Footer
+        * Ensure that when you select a social media link it opens in a new tab
+        * Ensure the responsiveness of the Footer
 
 ### Lighthouse Score
 
