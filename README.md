@@ -145,7 +145,7 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
 <details><summary>Lighthouse Index</summary><img src="docs/images/lighthouse_index.png"></details>
 <details><summary>Lighthouse History</summary><img src="docs/images/lighthouse_history.png"></details>
-<details><summary>Lighthouse Gallery</summary><img src="docs/images/lighthouse_index.png"></details>
+<details><summary>Lighthouse Gallery</summary><img src="docs/images/lighthouse_gallery.png"></details>
 <details><summary>Lighthouse Contact</summary><img src="docs/images/lighthouse_index.png"></details>
 
 ## Validator Testing 
