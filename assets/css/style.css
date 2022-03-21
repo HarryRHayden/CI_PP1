@@ -289,7 +289,7 @@ footer {
 /* Error image */
 
 #error-image {
-    background: #F17D3A url(../images/pizza_error.jpg);
+    background: #F17D3A url(../images/pizza_error.jpg) center / 100% 100% no-repeat;
     height: 800px;
     width: 100%;
 }
