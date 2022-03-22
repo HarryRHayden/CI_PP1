@@ -240,6 +240,8 @@ Validation for CSS coding was completed by [W3S CSS Validator](https://jigsaw.w3
   
 ### Lighthouse Score
 
+Lighthouse score was provided by Chrome Dev Tools and all scores were returned above 92.
+
 <details><summary>Lighthouse Index</summary><img src="docs/images/lighthouse_index.png"></details>
 <details><summary>Lighthouse History</summary><img src="docs/images/lighthouse_history.png"></details>
 <details><summary>Lighthouse Gallery</summary><img src="docs/images/lighthouse_gallery.png"></details>
