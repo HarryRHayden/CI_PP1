@@ -24,18 +24,22 @@ There will be a section for users to provide feedback and topping inspirational 
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
 5. [Features](#features)
-6. [Testing](#validation)
+6. [Testing](#testing)
     1. [Manual Testing](#manual-testing)
-    2. [CSS Validation](#CSS-validation)
-    3. [Accessibility](#accessibility)
-    4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#testing-user-stories)
+7. [Validation](#validator-testing)
+    1. [HTML](#html)
+    2. [CSS](#css)
+    3. [Lighthouse](#lighthouse-score)
+    4. [Accessibility](#accessibility)
 8. [Bugs Fixed](#bugs-fixed)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
-11. [Acknowledgements](#acknowledgements)
+    1. [Code](#code)
+    2. [Content](#content)
+    3. [Media](#media)
 
 ## Project Goals
 
@@ -218,13 +222,6 @@ Before starting the website I used a framework design tool called [Balsamic](htt
         * Ensure that when you select a social media link it opens in a new tab
         * Ensure the responsiveness of the Footer
 
-### Lighthouse Score
-
-<details><summary>Lighthouse Index</summary><img src="docs/images/lighthouse_index.png"></details>
-<details><summary>Lighthouse History</summary><img src="docs/images/lighthouse_history.png"></details>
-<details><summary>Lighthouse Gallery</summary><img src="docs/images/lighthouse_gallery.png"></details>
-<details><summary>Lighthouse Contact</summary><img src="docs/images/lighthouse_contact.png"></details>
-
 ## Validator Testing 
 
 Validation completed by [Free Formatter](https://www.freeformatter.com/html-validator.html)
@@ -240,6 +237,21 @@ Validation completed by [Free Formatter](https://www.freeformatter.com/html-vali
 
   <details><summary>CSS</summary><img src="docs/images/css.png"></details>
   
+### Lighthouse Score
+
+<details><summary>Lighthouse Index</summary><img src="docs/images/lighthouse_index.png"></details>
+<details><summary>Lighthouse History</summary><img src="docs/images/lighthouse_history.png"></details>
+<details><summary>Lighthouse Gallery</summary><img src="docs/images/lighthouse_gallery.png"></details>
+<details><summary>Lighthouse Contact</summary><img src="docs/images/lighthouse_contact.png"></details>
+
+### Accessibility
+
+Accessibility was tested using [Wave Webaim](https://wave.webaim.org/)
+
+<details><summary>Accessibility Index</summary><img src="docs/images/web_wave_index.png"></details>
+<details><summary>Accessibility History</summary><img src="docs/images/web_wave_history.png"></details>
+<details><summary>Accessibility Gallery</summary><img src="docs/images/web_wave_gallery.png"></details>
+<details><summary>Accessibility Contact</summary><img src="docs/images/web_wave_contact.png"></details>
 
 ## Bugs Fixed
 
