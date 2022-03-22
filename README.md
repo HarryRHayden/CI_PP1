@@ -224,9 +224,8 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
 ## Validator Testing 
 
-Validation completed by [Free Formatter](https://www.freeformatter.com/html-validator.html)
-
 ### HTML
+Validation completed by [Free Formatter](https://www.freeformatter.com/html-validator.html) this was due to W3S website being down for multiple days and not available to use. This validator returned no errors for HTML.
 
   <details><summary>Index Page</summary><img src="docs/images/index.png"></details>
   <details><summary>History Page</summary><img src="docs/images/history.png"></details>
@@ -246,7 +245,7 @@ Validation completed by [Free Formatter](https://www.freeformatter.com/html-vali
 
 ### Accessibility
 
-Accessibility was tested using [Wave Webaim](https://wave.webaim.org/)
+Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and returned no errors.
 
 <details><summary>Accessibility Index</summary><img src="docs/images/web_wave_index.png"></details>
 <details><summary>Accessibility History</summary><img src="docs/images/web_wave_history.png"></details>
