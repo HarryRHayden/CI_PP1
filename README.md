@@ -8,14 +8,38 @@ There will be a section for users to provide feedback and topping inspirational 
 
 [Live Webpage](https://harryrhayden.github.io/CI_PP1/index.html)
 
-## User Stories
+1. [Project Goals](#project-goals)
+    1. [User Goals](#user-goals)
+    2. [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    3. [User Stories](#user-stories)
+3. [Style Choices](#style-choices)
+    1. [Design Choices](#design-choices)
+    2. [Colour](#colour-scheme)
+    4. [Structure](#structure)
+    5. [Initial Framework](#initial-framework)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks-&-tools)
+5. [Features](#features)
+6. [Testing](#validation)
+    1. [HTML Validation](#HTML-validation)
+    2. [CSS Validation](#CSS-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Device testing](#performing-tests-on-various-devices)
+    6. [Browser compatibility](#browser-compatability)
+    7. [Testing user stories](#testing-user-stories)
+8. [Bugs](#Bugs)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
+11. [Acknowledgements](#acknowledgements)
 
-- Provide information on Romana and Neopolitan Pizza
-- Provide user differences between the two pizzas
-- Provide images to inspire the user
-- Provide a method of voting for a favourite type of pizza
+## Project Goals
 
-## User Goals
+### User Goals
 
 1. Provide information on pizza
 2. Provide information on the two main types of pizza
@@ -26,13 +50,23 @@ There will be a section for users to provide feedback and topping inspirational 
 7. Provide a way to navigate around the site
 8. Provide links to social networking
 
-## Initial Framework
+### Site Owner Goals
 
-Before starting the website I used a framework design tool called [Balsamic](https://balsamiq.com/) to mockup an initial design idea.
+## User Experience
 
-<details><summary>Initial Framework</summary>
-<img src="docs/images/responsive_mock.png">
-</details>
+### Target Audience
+
+- Provide information on Romana and Neopolitan Pizza
+- Provide user differences between the two pizzas
+- Provide images to inspire the user
+- Provide a method of voting for a favourite type of pizza
+
+### User Stories
+
+- Provide information on Romana and Neopolitan Pizza
+- Provide user differences between the two pizzas
+- Provide images to inspire the user
+- Provide a method of voting for a favourite type of pizza
 
 ## Style Choices
 
@@ -45,7 +79,36 @@ For the colour of the Home page I used [Coolors](https://coolors.co/) which allo
 For the colour scheme of the History page I utilised the hex colours of the Italian flag via [Scheme Colour](https://www.schemecolor.com/italy-flag-colors.php).
 
 <details><summary>Colour Palette</summary><img src="docs/images/italian_flag_hex.png"></details>
+
+### Structure
+
+### Initial Framework
+
+Before starting the website I used a framework design tool called [Balsamic](https://balsamiq.com/) to mockup an initial design idea.
+
+<details><summary>Initial Framework</summary>
+<img src="docs/images/responsive_mock.png">
+</details>
 <br>
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Bootstrap v5.0
+- Git
+- GitHub
+- Gitpod
+- Compressor<span>.</span>io
+- Paint<span>.</span>NET
+- Balsamiq
+- Google Fonts
+- Coolors
+- Font Awesome
+- Favicon<span>.</span>io
 
 ## Features
 ### Existing Features
@@ -204,6 +267,7 @@ The live link can be found here - https://harryrhayden.github.io/CI_PP1/
 ### Content 
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The images were compressed using [Compressor IO](https://compressor.io/)
 
 ### Media
 
