@@ -69,6 +69,14 @@ There will be a section for users to provide feedback and topping inspirational 
 - People looking to understand the difference between a Romana and Neopolitan pizza
 - People who enjoy cooking
 
+### User Requrements and Expectations
+
+- A easy to use navigation system
+- Information that is relevant and easy to understand
+- Functions and links that respond and work as expected
+- Presentation and visual aesthetics regardless of screensize
+- Accessibility
+
 ### User Stories
 
 - Provide information on Romana and Neopolitan Pizza
