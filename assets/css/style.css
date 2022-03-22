@@ -209,7 +209,8 @@ header {
 .form_style {
     color: #fef0de;
     background-color: rgba(136, 61, 13, 0.8);
-    max-width: 60%;
+    height: 900px;
+    width: 100%;
     left: 10%;
     padding: 50px;
 }
