@@ -25,14 +25,14 @@ There will be a section for users to provide feedback and topping inspirational 
     2. [Frameworks & Tools](#frameworks-&-tools)
 5. [Features](#features)
 6. [Testing](#validation)
-    1. [HTML Validation](#HTML-validation)
+    1. [Manual Testing](#manual-testing)
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#testing-user-stories)
-8. [Bugs](#Bugs)
+8. [Bugs Fixed](#bugs-fixed)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
@@ -52,14 +52,18 @@ There will be a section for users to provide feedback and topping inspirational 
 
 ### Site Owner Goals
 
+9. To provide a platform to introduce people to Romana and Neopolitan pizza
+10. Promote Italian food primarily pizza
+11. Promote Italian culture through food
+
 ## User Experience
 
 ### Target Audience
 
-- Provide information on Romana and Neopolitan Pizza
-- Provide user differences between the two pizzas
-- Provide images to inspire the user
-- Provide a method of voting for a favourite type of pizza
+- People looking into making homemade pizza
+- People looking to learn about the origin of pizza
+- People looking to understand the difference between a Romana and Neopolitan pizza
+- People who enjoy cooking
 
 ### User Stories
 
@@ -69,6 +73,10 @@ There will be a section for users to provide feedback and topping inspirational 
 - Provide a method of voting for a favourite type of pizza
 
 ## Style Choices
+
+### Design
+The webpage is designed to encourage people to learn about the origin and history of pizza, providing them a detailed account of the two main types. It has incorporated both a pizza feel
+and the Italian flag to reflect the culture and background of pizza.
 
 ### Colour Scheme
 
@@ -86,7 +94,7 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
 Before starting the website I used a framework design tool called [Balsamic](https://balsamiq.com/) to mockup an initial design idea.
 
-<details><summary>Initial Framework</summary>
+<details><summary>Index</summary>
 <img src="docs/images/responsive_mock.png">
 </details>
 <br>
@@ -247,12 +255,24 @@ Validation completed by [Free Formatter](https://www.freeformatter.com/html-vali
 
 ## Deployment
 
-To deploy the site to a hosting platform (such as Github) you are required to follow the steps shown below. 
+The website was deployed using GitHub Pages by following these steps:
+1. On the GitHub repository select the Settings tab
+2. Using the left hand sub-menu select Pages
+3. When asked for the source select Branch: master
+4. After the webpage refreshes automaticaly you will be shown a ribbon along the top saying: "Your site is published at https://4n4ru.github.io/CI_MS1_BodelschwingherHof/"
 
-- The site was deployed on GitHub pages. The flow to deploy is shown below: 
-  - In the repository on Github, enter  the Settings tab 
-  - Select the Master Branch from the source section drop-down menu 
-  - After you select master branch, the page will be refreshed with a detailed ribbon display to show the user the successful deployment of their page. 
+You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in upper right hand corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7. Press Enter to create your local clone.
 
 The live link can be found here - https://harryrhayden.github.io/CI_PP1/
 
