@@ -26,7 +26,7 @@ There will be a section for users to provide feedback and topping inspirational 
 5. [Features](#features)
 6. [Testing](#testing)
     1. [Manual Testing](#manual-testing)
-    5. [Device testing](#performing-tests-on-various-devices)
+    5. [Device testing](#perform-test-on-devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#testing-user-stories)
 7. [Validation](#validator-testing)
@@ -145,7 +145,7 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to A Pizza Perfection
-  - User stories covered : 1, 2
+  - User stories covered : 1, 2, 9, 10, 11
 
   ![Landing Image](docs/images/landing_image.png)
 
@@ -161,7 +161,7 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
   - The history page is valuable to the user as it explains the main difference between the two different types of pizza. 
   - Gives the main criteria for a pizza to be recognised as a Romana or Neopolitan.
-  - User stories covered : 1, 2, 3, 7
+  - User stories covered : 1, 2, 3, 7, 9, 10
 
   ![History](docs/images/history_page.png)
 
@@ -169,7 +169,7 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 
   - The gallery will provide the user with supporting images to see what different types of pizza users have made. 
   - This section is valuable to the user as it will inspire them to use new toppings and try new flavours.
-  - User stories covered : 4, 7
+  - User stories covered : 4, 7, 9, 10
 
   ![Gallery](docs/images/gallery_page.png)
 
@@ -229,6 +229,20 @@ Before starting the website I used a framework design tool called [Balsamic](htt
       * Footer Section
         * Ensure that when you select a social media link it opens in a new tab
         * Ensure the responsiveness of the Footer
+
+### Perform test on devices
+The website was tested on the following devices:
+- MacBook Pro 13"
+- MacBook Pro 13" with 17" monitor
+- Iphone 7
+- Iphone 11 Mini
+
+In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+
+### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Safari
 
 ## Validator Testing 
 
