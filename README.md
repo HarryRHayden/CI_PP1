@@ -106,9 +106,10 @@ For the colour scheme of the History page I utilised the hex colours of the Ital
 
 Before starting the website I used a framework design tool called [Balsamic](https://balsamiq.com/) to mockup an initial design idea.
 
-<details><summary>Index</summary>
-<img src="docs/images/responsive_mock.png">
-</details>
+<details><summary>Index</summary><img src="docs/images/balsamiq_index.png"></details>
+<details><summary>History</summary><img src="docs/images/balsamiq_history.png"></details>
+<details><summary>Gallery</summary><img src="docs/images/balsamiq_gallery.png"></details>
+<details><summary>Contact Us</summary><img src="docs/images/balsamiq_form.png"></details>
 <br>
 
 ## Technologies Used
