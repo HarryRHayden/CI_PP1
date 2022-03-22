@@ -234,6 +234,8 @@ Validation completed by [Free Formatter](https://www.freeformatter.com/html-vali
 
 ### CSS
 
+Validation for CSS coding was completed by [W3S CSS Validator](https://jigsaw.w3.org/css-validator/) and returned no errors for my CSS coding.
+
   <details><summary>CSS</summary><img src="docs/images/css.png"></details>
   
 ### Lighthouse Score
