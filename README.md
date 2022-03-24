@@ -300,7 +300,15 @@ Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and retur
 | Home Page | Open Webpage | Paragraph showing some information on pizza | Works as expected |
 | History | On any page select the History tab | Advance to history page | Works as expected |
 
-  <details><summary>User Story 1</summary><img src="docs/images/user_story_1.png"></details>
+  <details><summary>User Story 1</summary><img src="docs/images/user_story_1.png"></details><br>
+
+2. Provide information on pizza
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| History | On any page select the History tab | Advance to history page | Works as expected |
+
+  <details><summary>User Story 2</summary><img src="docs/images/user_story_2.png"></details>
 
 ## Deployment
 
