@@ -308,7 +308,23 @@ Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and retur
 |-------------|------------|---------------------|-------------------|
 | History | On any page select the History tab | Advance to history page | Works as expected |
 
-  <details><summary>User Story 2</summary><img src="docs/images/user_story_2.png"></details>
+  <details><summary>User Story 2</summary><img src="docs/images/user_story_2.png"></details><br>
+
+3. Provide the user the main differences of the two main types
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| History | On any page select the History tab | Advance to history page | Works as expected |
+
+  <details><summary>User Story 3</summary><img src="docs/images/user_story_2.png"></details><br>
+
+4. Provide a gallery of images
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery | On any page select the Gallery tab | Advance to gallery page | Works as expected |
+
+  <details><summary>User Story 4</summary><img src="docs/images/user_story_4.png"></details><br>
 
 ## Deployment
 
