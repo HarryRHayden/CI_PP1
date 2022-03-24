@@ -291,6 +291,17 @@ Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and retur
 
   <details><summary>Degrees</summary><img src="docs/images/degrees.png"></details>
 
+### Testing user stories
+
+1. Provide information on pizza
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home Page | Open Webpage | Paragraph showing some information on pizza | Works as expected |
+| History | On any page select the History tab | Advance to history page | Works as expected |
+
+  <details><summary>User Story 1</summary><img src="docs/images/user_story_1.png"></details>
+
 ## Deployment
 
 The website was deployed using GitHub Pages by following these steps:
