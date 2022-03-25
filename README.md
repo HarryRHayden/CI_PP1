@@ -49,13 +49,13 @@ There will be a section for users to provide feedback and topping inspirational 
 2. Provide information on the two main types of pizza
 3. Provide the user the main differences of the two main types
 4. Provide a gallery of images
-5. Provide a contact form
-6. Conduct a survey on peoples favourite type of pizza
-7. Provide a way to navigate around the site
-8. Provide links to social networking
+5. Conduct a survey on peoples favourite type of pizza
+6. Provide a way to navigate around the site
+7. Provide links to social networking
 
 ### Site Owner Goals
 
+8. Provide a contact form
 9. To provide a platform to introduce people to Romana and Neopolitan pizza
 10. Promote Italian food primarily pizza
 11. Promote Italian culture through food
@@ -325,6 +325,14 @@ Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and retur
 | Gallery | On any page select the Gallery tab | Advance to gallery page | Works as expected |
 
   <details><summary>User Story 4</summary><img src="docs/images/user_story_4.png"></details><br>
+
+5. Conduct a survey on peoples favourite type of pizza
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Form | On any page select the Contact Us tab. Then proceed to choose using dropdown | Advance to contact page. Complete form | Works as expected |
+
+  <details><summary>User Story 5</summary><img src="docs/images/user_story_5.png"></details><br>
 
 ## Deployment
 
