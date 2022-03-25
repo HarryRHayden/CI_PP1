@@ -13,7 +13,7 @@ There will be a section for users to provide feedback and topping inspirational 
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Style Choices](#style-choices)
     1. [Design Choices](#design-choices)
@@ -69,7 +69,7 @@ There will be a section for users to provide feedback and topping inspirational 
 - People looking to understand the difference between a Romana and Neopolitan pizza
 - People who enjoy cooking
 
-### User Requrements and Expectations
+### User Requirements and Expectations
 
 - A easy to use navigation system
 - Information that is relevant and easy to understand
