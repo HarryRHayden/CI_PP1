@@ -358,6 +358,14 @@ Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and retur
 
   <details><summary>User Story 8</summary><img src="docs/images/user_story_8.png"></details><br>
 
+9. Provide the user the main differences of the two main types
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| History | On any page select the History tab | Advance to history page | Works as expected |
+
+  <details><summary>User Story 9</summary><img src="docs/images/user_story_2.png"></details><br>
+
 ## Deployment
 
 The website was deployed using GitHub Pages by following these steps:
