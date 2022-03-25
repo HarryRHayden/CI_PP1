@@ -22,7 +22,7 @@ There will be a section for users to provide feedback and topping inspirational 
     5. [Initial Framework](#initial-framework)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    2. [Frameworks & Tools](#frameworks-and-tools)
 5. [Features](#features)
 6. [Testing](#testing)
     1. [Manual Testing](#manual-testing)
@@ -118,7 +118,7 @@ Before starting the website I used a framework design tool called [Balsamic](htt
 - HTML
 - CSS
 
-### Frameworks & Tools
+### Frameworks and Tools
 - Bootstrap v5.0
 - Git
 - GitHub
@@ -415,7 +415,7 @@ The live link can be found here - https://harryrhayden.github.io/CI_PP1/
 
 ### Content 
 
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/) via Bootstrap 5.0 [Bootstrap](https://getbootstrap.com/)
 - The images were compressed using [Compressor IO](https://compressor.io/)
 
 ### Media
