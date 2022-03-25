@@ -342,6 +342,14 @@ Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and retur
 
   <details><summary>User Story 6</summary><img src="docs/images/nav_bar.png"></details><br>
 
+7. Provide links to social networking
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | On any page scroll to the bottom of the page and you will see the footer. | Advance to any selected social site in a new window | Works as expected |
+
+  <details><summary>User Story 7</summary><img src="docs/images/footer.png"></details><br>
+
 ## Deployment
 
 The website was deployed using GitHub Pages by following these steps:
