@@ -332,7 +332,7 @@ Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and retur
 |-------------|------------|---------------------|-------------------|
 | Form | On any page select the Contact Us tab. Then proceed to choose using dropdown | Advance to contact page. Complete form | Works as expected |
 
-  <details><summary>User Story 5</summary><img src="docs/images/user_story_5.png"></details><br>
+  <details><summary>User Story 5</summary><img src="docs/images/user_story_8.png"></details><br>
 
 6. Provide a way to navigate around the site
 
@@ -349,6 +349,14 @@ Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and retur
 | Footer | On any page scroll to the bottom of the page and you will see the footer. | Advance to any selected social site in a new window | Works as expected |
 
   <details><summary>User Story 7</summary><img src="docs/images/footer.png"></details><br>
+
+8. Provide a contact form
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Form | On any page select the Contact Us tab. Then proceed to choose using dropdown | Advance to contact page. Complete form | Works as expected |
+
+  <details><summary>User Story 8</summary><img src="docs/images/user_story_8.png"></details><br>
 
 ## Deployment
 
