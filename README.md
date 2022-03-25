@@ -334,6 +334,14 @@ Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and retur
 
   <details><summary>User Story 5</summary><img src="docs/images/user_story_5.png"></details><br>
 
+6. Provide a way to navigate around the site
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navigation Bar | On any page scroll to the top and you will see the navigation bar | Advance to any selected page | Works as expected |
+
+  <details><summary>User Story 6</summary><img src="docs/images/nav_bar.png"></details><br>
+
 ## Deployment
 
 The website was deployed using GitHub Pages by following these steps:
