@@ -16,7 +16,7 @@ There will be a section for users to provide feedback and topping inspirational 
     2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Style Choices](#style-choices)
-    1. [Design Choices](#design-choices)
+    1. [Design](#design)
     2. [Colour](#colour-scheme)
     4. [Structure](#structure)
     5. [Initial Framework](#initial-framework)
