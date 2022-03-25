@@ -374,6 +374,14 @@ Accessibility was tested using [Wave Webaim](https://wave.webaim.org/) and retur
 
   <details><summary>User Story 10</summary><img src="docs/images/user_story_2.png"></details><br>
 
+11. Promote Italian culture through food
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| History | On any page select the History tab | Advance to history page | Works as expected |
+
+  <details><summary>User Story 11</summary><img src="docs/images/user_story_2.png"></details><br>
+
 ## Deployment
 
 The website was deployed using GitHub Pages by following these steps:
